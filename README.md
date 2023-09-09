@@ -1,11 +1,11 @@
 
-# Theseus Game Clone Documentation
+# Labyrinth Game of Mythology Documentation
 
 ## School of Electrical & Computer Engineering - AUTh
 ### Data Structures Course, Aristotle University
 ### Built with Java
 
-This was a university project about the DATA STRUCTURES course. The Theseus game project has been divided into several parts.
+This was a university project about the DATA STRUCTURES course. The Labyrinth Game of Mythology project has been divided into several parts.
 
 ## Table of contents
 
@@ -16,6 +16,7 @@ This was a university project about the DATA STRUCTURES course. The Theseus game
   - [Tile Structure](#tile-structure)
   - [Advanced Player Features](#advanced-player-features)
   - [Board Dynamics](#board-dynamics)
+  - [Contribution](#contribution)
 - [Author](#author)
 
 ## Game Initialization
@@ -41,6 +42,12 @@ The `AdvancedPlayer.java` and `AdvancedXPlayer.java` files introduce enhanced fe
 ## Board Dynamics
 
 The `Board.java` file defines the game board, its structure, the placement of items, and other related features.
+
+## Contribution
+
+If you're interested in improving the game, especially the movement mechanics (currently, the players can move over walls), your contributions are welcome! Fork the repository, make your enhancements, and submit a pull request.
+
+Thank you for stopping by and exploring the world of Theseus!
 
 ## Author
 
